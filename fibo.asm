@@ -2,9 +2,6 @@ TITLE Program Template     (template.asm)
 
 ; Author:  Joel Herrick
 ; Last Modified: 4/18/2018
-; OSU email address: herricjo@oregonstate.edu
-; Course number/section: 271-400
-; Project Number: 2                Due Date: 4/22/18
 ; Description: calculates fibonacci numbers and validates user-input range
 
 INCLUDE Irvine32.inc
